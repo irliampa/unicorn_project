@@ -1,6 +1,6 @@
 # Unicorn Project
 
-!https://en.wikipedia.org/wiki/Unicorn#/media/File:DomenichinounicornPalFarnese.jpg
+![https://en.wikipedia.org/wiki/Unicorn#/media/File:DomenichinounicornPalFarnese.jpg]
 
 ## Description
 
