@@ -6,7 +6,7 @@ This is the repository of a **very rare** project.
 
 The aims of the project are:
 * promote collabotation among _wizards_ and *witches*
-* make a _*spell*_ database
+* make a *spell* database
 * form a **community**
 
 ## More info about unicorns
