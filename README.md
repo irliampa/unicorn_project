@@ -14,5 +14,3 @@ The aims of the project are:
 
 ### Contact info
 Twitter: @irliampa
-
-![alt text](https://github.com/irliampa/unicorn_project/blob/master/DomenichinounicornPalFarnese.jpg "Unicorn painting")
