@@ -14,4 +14,4 @@ The aims of the project are:
 
 ### Contact info
 
-![Alt text] (https://github.com/irliampa/unicorn_project/blob/master/DomenichinounicornPalFarnese.jpg "Unicorn painting")
+![alt text](https://github.com/irliampa/unicorn_project/blob/master/DomenichinounicornPalFarnese.jpg "Unicorn painting")
