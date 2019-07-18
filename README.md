@@ -8,6 +8,7 @@ The aims of the project are:
 * promote collabotation among _wizards_ and *witches*
 * make a *spell* database
 * form a **community**
+* annihilate every living unicorn
 
 ## More info about unicorns
 [1] https://en.wikipedia.org/wiki/Unicorn 
