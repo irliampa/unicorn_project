@@ -5,7 +5,7 @@
 This is the repository of a **very rare** project.
 
 The aims of the project are:
-* promote collabotation among _wizards_ and *witches*
+* promote collaboration among _wizards_ and *witches*
 * make a *spell* database
 * form a **community**
 
